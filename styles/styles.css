@@ -1,0 +1,15 @@
+/* External CSS */
+/* Selecting elements */
+header {
+    color: green;
+}
+
+/* Selecting classes */
+.example-class {
+    color: purple;
+}
+
+/* Selecting IDs */
+#example-id {
+    color: orange;
+}
